@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ameer-hamza0046
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning DSA, Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ameer.hamza0046@gmail.com
 
 <!---
